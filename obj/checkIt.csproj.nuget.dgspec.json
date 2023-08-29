@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj": {}
+    "C:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj": {
+    "C:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj",
+        "projectUniqueName": "C:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj",
         "projectName": "checkIt",
-        "projectPath": "c:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj",
+        "projectPath": "C:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\checkIt.csproj",
         "packagesPath": "C:\\Users\\Automan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\obj\\",
+        "outputPath": "C:\\Users\\Automan\\Documents\\PROGRAMMING\\C#\\checkIt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Automan\\AppData\\Roaming\\NuGet\\NuGet.Config",
