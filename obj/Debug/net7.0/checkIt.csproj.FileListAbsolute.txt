@@ -1,0 +1,14 @@
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\bin\Debug\net7.0\checkIt.exe
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\bin\Debug\net7.0\checkIt.deps.json
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\bin\Debug\net7.0\checkIt.runtimeconfig.json
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\bin\Debug\net7.0\checkIt.dll
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\bin\Debug\net7.0\checkIt.pdb
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\checkIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\checkIt.AssemblyInfoInputs.cache
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\checkIt.AssemblyInfo.cs
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\checkIt.csproj.CoreCompileInputs.cache
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\checkIt.dll
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\refint\checkIt.dll
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\checkIt.pdb
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\checkIt.genruntimeconfig.cache
+C:\Users\Automan\Documents\PROGRAMMING\C#\checkIt\obj\Debug\net7.0\ref\checkIt.dll
