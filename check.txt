@@ -1,0 +1,13 @@
+//Casting
+
+https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions
+
+
+//Boxing Unboxing
+
+https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing
+
+//Generics
+
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics
+

@@ -3,6 +3,8 @@
 //https://www.youtube.com/watch?v=SQim2adwVJI
 
 //dotnet build, run
+using System.Text;
+
 Console.WriteLine("Hello, World! First commit");
 int i = 123;
 object o = i;
@@ -65,3 +67,50 @@ foreach (var inn in numberz)
 {
     Console.WriteLine(inn);
 }
+//NO MAIN NEEDED ANYMORE!!!!! using system!!
+StringBuilder b = new(); //Default private
+b.AppendLine("Yello <-----1");
+Console.WriteLine(b.ToString());
+
+//WOT!!!
+/*string? s = Console.ReadLine();  // question mark: can be string or null
+int returnValue = int.Parse(s ?? "-1");
+return returnValue;*/
+
+//Types in variables declarations
+var limit = 32;
+int[] src = { 0, 102, 2, 3, 4, 5 };
+var q = from item in src
+        where item <= limit
+        select item;
+
+byte bait = byte.MaxValue;
+
+Console.WriteLine(q + "  " + bait);
+/* Enums and Structs
+
+ public struct Cood{
+    public int Id, y;
+    public Cood(int id, int y) { 
+        Id = id;
+        y = y;
+    }
+    
+}
+
+Cood p = new Cood();
+ 
+ public enum Dm {
+    c = 1, d =22, e = 23,
+ }
+Console.WriteLine(Dm.c); */
+//Literal values
+string s = "wot-->" + 3.ToString();
+Type type = 2224.GetType();
+
+
+
+Console.WriteLine(s + "  " + type);
+
+
+
