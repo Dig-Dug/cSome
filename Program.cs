@@ -108,9 +108,10 @@ Console.WriteLine(Dm.c); */
 string s = "wot-->" + 3.ToString();
 Type type = 2224.GetType();
 
+//Anonymous Types
+var v = new { amount = 10, m = "wot?" };
 
-
-Console.WriteLine(s + "  " + type);
+Console.WriteLine(s + "  " + type + "...." + v.amount + v.m);
 
 
 
