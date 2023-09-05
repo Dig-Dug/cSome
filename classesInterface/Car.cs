@@ -1,4 +1,5 @@
-namespace classes;
+namespace checkit;
+using System;
 //Implementing interface
 public class Car : IEquatable<Car>
 {
@@ -6,13 +7,18 @@ public class Car : IEquatable<Car>
     public string? Model { get; set; }
     public string? Year { get; set; }
 
+    public string dd = "dodpo";
+
     // Implementation of IEquatable<T> interface
     public bool Equals(Car? car)
     {
+
+
         return (this.Make, this.Model, this.Year) ==
             (car?.Make, car?.Model, car?.Year);
     }
 }
+
 
 //public required string lol { get; set; }
 
