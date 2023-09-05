@@ -1,4 +1,4 @@
-interface Iequatable<T>
+interface Iequatable<T_T>
 {
-    bool equals(T obj);
+    bool equals(T_T obj);
 }
