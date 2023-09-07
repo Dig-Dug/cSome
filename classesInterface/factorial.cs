@@ -18,7 +18,7 @@ public class Functions
     }
 }
 
-class MainClass
+/* class MainClass
 {
     static int Main(string[] args)
     {
@@ -53,6 +53,6 @@ class MainClass
 
         return 0;
     }
-}
+} */
 // If 3 is entered on command line, the
 // output reads: The factorial of 3 is 6.

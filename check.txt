@@ -12,7 +12,7 @@ https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-a
 https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics
 
 //virtual, override, base, static, new modifier keyword
-//sealed, relational patterns, Discards,Task <-----
+//sealed, relational patterns, Discards,Task,nameof, <-----
 
 
 classes
