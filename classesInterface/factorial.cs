@@ -18,7 +18,7 @@ public class Functions
     }
 }
 
-/* class MainClass
+/* öclass MainClass
 {
     static int Main(string[] args)
     {
